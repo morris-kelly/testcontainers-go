@@ -1,4 +1,4 @@
-module github.com/testcontainers/testcontainers-go/modules/compose
+module github.com/morris-kelly/testcontainers-go/modules/compose
 
 go 1.21
 
